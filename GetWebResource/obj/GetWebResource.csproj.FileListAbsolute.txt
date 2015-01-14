@@ -1,0 +1,16 @@
+D:\profile\GetWebResource\GetWebResource\bin\Debug\GetWebResource.exe
+D:\profile\GetWebResource\GetWebResource\bin\Debug\GetWebResource.pdb
+D:\profile\GetWebResource\GetWebResource\obj\Debug\ResolveAssemblyReference.cache
+D:\profile\GetWebResource\GetWebResource\obj\Debug\GetWebResource.Form1.resources
+D:\profile\GetWebResource\GetWebResource\obj\Debug\GetWebResource.Properties.Resources.resources
+D:\profile\GetWebResource\GetWebResource\obj\Debug\GetWebResource.csproj.GenerateResource.Cache
+D:\profile\GetWebResource\GetWebResource\obj\Debug\GetWebResource.exe
+D:\profile\GetWebResource\GetWebResource\obj\Debug\GetWebResource.pdb
+D:\profile\GetWebResource\GetWebResource\bin\Release\GetWebResource.exe
+D:\profile\GetWebResource\GetWebResource\bin\Release\GetWebResource.pdb
+D:\profile\GetWebResource\GetWebResource\obj\Release\ResolveAssemblyReference.cache
+D:\profile\GetWebResource\GetWebResource\obj\Release\GetWebResource.Form1.resources
+D:\profile\GetWebResource\GetWebResource\obj\Release\GetWebResource.Properties.Resources.resources
+D:\profile\GetWebResource\GetWebResource\obj\Release\GetWebResource.csproj.GenerateResource.Cache
+D:\profile\GetWebResource\GetWebResource\obj\Release\GetWebResource.exe
+D:\profile\GetWebResource\GetWebResource\obj\Release\GetWebResource.pdb

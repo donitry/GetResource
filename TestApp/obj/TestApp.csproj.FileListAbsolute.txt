@@ -1,0 +1,7 @@
+D:\profile\GetWebResource\TestApp\bin\Debug\TestApp.exe
+D:\profile\GetWebResource\TestApp\bin\Debug\TestApp.pdb
+D:\profile\GetWebResource\TestApp\obj\Debug\ResolveAssemblyReference.cache
+D:\profile\GetWebResource\TestApp\obj\Debug\TestApp.exe
+D:\profile\GetWebResource\TestApp\obj\Debug\TestApp.pdb
+D:\Pro_File\GetWebResource\TestApp\obj\Debug\TestApp.exe
+D:\Pro_File\GetWebResource\TestApp\obj\Debug\TestApp.pdb
